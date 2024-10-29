@@ -1,1 +1,1 @@
-## Introduction to deep learning. Introduction to supervised learning, regression and classification. Linear classification with percetrons. Multilayer perceptrons. The effect of nonlinearities and multiple layers. Training MLPs. Loss functions. Gradient descent and stochastic gradient descent. The role of MLPs in deep learning.
+This is a course memo repo for a deep learning course.
