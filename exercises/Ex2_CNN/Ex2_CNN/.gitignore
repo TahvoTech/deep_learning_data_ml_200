@@ -1,1 +1,4 @@
 dataset_ex2/
+
+# Ignore all .pth files
+*.pth
